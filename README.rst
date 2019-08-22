@@ -1,6 +1,6 @@
 Django CKEditor
 ===============
-I added some plugins: html5video, tableresize, youtube.</br>
+I added some plugins: html5video, tableresize, youtube.  
 use:  
     'extraPlugins': ','.join(  
         [
