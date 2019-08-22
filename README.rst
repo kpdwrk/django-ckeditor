@@ -1,4 +1,4 @@
-Django CKEditor
+Django CKEditor + plugins (html5video, tableresize, youtube)
 ===============
 
 **NOTICE: django-ckeditor 5 has backward incompatible code moves against 4.5.1.**
