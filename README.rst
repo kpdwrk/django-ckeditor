@@ -1,6 +1,14 @@
-Django CKEditor + plugins (html5video, tableresize, youtube)
+Django CKEditor
 ===============
-
+I added some plugins: html5video, tableresize, youtube  
+use:
+    'extraPlugins': ','.join(
+        [
+            'html5video,widget,widgetselection,clipboard,lineutils,tableresize,youtube',
+        ]
+        ),
+    },
+===============
 **NOTICE: django-ckeditor 5 has backward incompatible code moves against 4.5.1.**
 
 
